@@ -3,10 +3,8 @@ A college assignment where a frequency analysis had to be performed using the Fa
 
 ## Modules/Packages used:
 <ol>
-  
+  <li>Scipy.fft</li>
 </ol>
-
-1. Scipy.fft<br>
 2. Scipy.io.wavfile<br>
 3. Numpy<br>
 4. Matplotlib.pyplot<br>
