@@ -24,5 +24,5 @@ The following step, transform the audio to the frequency domain using the FFT al
 Once data has been transformed, another visualization can be done and see the 2 given frequencies on the graph.<br>
 Analyze the frequency data and remove the desired frequency.<br>
 Once desired frequency is removed, the data has to be transformed/reverted back into the time domain.<br>
-Again the data has the ability to be visualized, this time if graphed, you will only noticed the none removed sine wave.<br>
-When audio is finally transformed backinto time domain, the audio is normalized, ready to be played using an audio player.<br>
+Again the data has the ability to be visualized, this time if graphed, you will only notice the none-removed sine wave.<br>
+When audio is finally transformed back into time domain, the audio is normalized ready to be played using an audio player.<br>
